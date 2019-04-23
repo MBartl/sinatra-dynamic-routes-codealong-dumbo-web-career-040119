@@ -21,7 +21,6 @@ class App < Sinatra::Base
   
   get "/multiply/:num1/:num2" do
     binding.pry
-    0
   end
 
 end
